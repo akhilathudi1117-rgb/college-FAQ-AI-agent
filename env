@@ -1,0 +1,3 @@
+LLM_PROVIDER=groq
+LLM_MODEL=openai/gpt-oss-20b
+GROQ_API_KEY="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"
